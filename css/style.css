@@ -1,0 +1,76 @@
+h1{
+font-size: 6rem;
+text-align: center;
+padding: 4rem;
+background-color: 234C6A;
+color: F5E7C6;
+}
+
+.poll_def{
+font-size: 2rem;
+
+}
+
+.head{
+color: F5E7C6;
+font-size: 4rem;
+text-decoration: underline;
+}
+
+body{
+margin: 0;
+font-size: 1.5rem;
+background-color: 1B3C53;
+color: E3E3E3;
+}
+
+
+.main{
+margin: 5rem 5rem 0 5rem;
+width: 90vw;
+height: 60vh;
+}
+
+.head2{
+color: F5E7C6;
+font-size: 4rem;
+text-align: center;
+text-decoration: underline;
+}
+.part2{
+font-size: 2rem;
+margin: 1rem 5rem 1rem 5rem;
+background-color: 456882;
+padding: 1rem;
+border-radius: 50px;
+}
+.head3{
+color: F5E7C6;
+font-size: 4rem;
+text-align: center;
+text-decoration: underline;
+}
+.part3{
+font-size: 2rem;
+margin: 3rem 5rem 5rem 5rem;
+background-color: 456882;
+padding: 1rem;
+border-radius: 50px;
+}
+.rule{
+height: 9px solid;
+}
+.poll_types{
+display: flex;
+list-style-type: none;
+gap: 6rem;
+
+}
+
+a{
+text-decoration: none;
+color: A8BBA3;
+}
+a:hover{
+color: FF8FB7;
+}
